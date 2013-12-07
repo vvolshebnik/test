@@ -1,1 +1,3 @@
-888
+<?php
+echo "salam";
+?>
